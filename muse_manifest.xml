@@ -1,0 +1,141 @@
+<manifest alg="2" build="375" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411067236055">
+  <folder name="css">
+    <file name="site_global.css" crc="62047390"/>
+    <file name="index.css" crc="352788533" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="ombperfmeasuresfy15.pdf" crc="3857074296" mt="1410871299000"/>
+    <file name="ocsitfy2013report.pdf" crc="4221095550" mt="1410871009000"/>
+    <file name="fy13_this_is_gsa_508_data.docx" crc="3908222900" mt="1410872010000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
+    <file name="museutils.js" crc="135030331" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3919229835" ref="index"/>
+    <file name="webpro.js" crc="221070874" ref="index"/>
+    <file name="musewpslideshow.js" crc="4100426672" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="451237455" ref="index"/>
+    <file name="touchswipe.js" crc="381331978" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3834635040" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="gsa_starmark_large.jpg" crc="359688970" ref="index"/>
+    <file name="gsa_starmark_small.jpg" crc="4067915813" ref="index"/>
+    <file name="hero_image_2.jpg" crc="3852716186" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="hero_image_4.jpg" crc="4145617492" ref="index"/>
+    <file name="hero_image_1.jpg" crc="46094271" ref="index"/>
+    <file name="hero_image_6.jpg" crc="3817844692" ref="index"/>
+    <file name="hero_image_7.jpg" crc="4131663506" ref="index"/>
+    <file name="hero_image_8.jpg" crc="322759537" ref="index"/>
+    <file name="hero_image_3.jpg" crc="507019674" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="title.png" crc="3929884705" ref="index"/>
+    <file name="u1877-grad.png" crc="336077981" ref="index"/>
+    <file name="scroll_normal.png" crc="368288229" ref="index"/>
+    <file name="scroll_rollover.png" crc="4066656456" ref="index"/>
+    <file name="section_break_image1.jpg" crc="461871245" ref="index"/>
+    <file name="dan_hero_video_image.jpg" crc="255397885" ref="index"/>
+    <file name="bio_icon.png" crc="4263536565" ref="index"/>
+    <file name="twitte_icon_small.png" crc="4254246449" ref="index"/>
+    <file name="section_break_image2.png" crc="150525746" ref="index"/>
+    <file name="serving_partners_normal_state.jpg" crc="3874743038" ref="index"/>
+    <file name="serving_partners_active_state.jpg" crc="3783096352" ref="index"/>
+    <file name="sustainable_normal_state.jpg" crc="4125244458" ref="index"/>
+    <file name="sustainable_active_state.jpg" crc="4238519897" ref="index"/>
+    <file name="innovation_normal_state.jpg" crc="296888761" ref="index"/>
+    <file name="innovation_active_state.jpg" crc="4045814528" ref="index"/>
+    <file name="stronger_normal_state.jpg" crc="243339743" ref="index"/>
+    <file name="stronger_active_state.jpg" crc="4195369965" ref="index"/>
+    <file name="expanding_normal_state.jpg" crc="141693113" ref="index"/>
+    <file name="expanding_active_state.jpg" crc="4279528839" ref="index"/>
+    <file name="better_value_normal_state.png" crc="423566662" ref="index"/>
+    <file name="better_value_rollover_state.png" crc="3763038078" ref="index"/>
+    <file name="u3083-sprite.png" crc="522178636" ref="index"/>
+    <file name="serving_partners_banner.jpg" crc="498200659" ref="index"/>
+    <file name="improve_acq_thumbnail-01.png" crc="4026245666" ref="index"/>
+    <file name="customer_training_thumnail-01.jpg" crc="359217000" ref="index"/>
+    <file name="inforgraphics_customer_training.jpg" crc="99141941" ref="index"/>
+    <file name="data_thumbnail-01.jpg" crc="4129125695" ref="index"/>
+    <file name="challenge_gov_award.jpg" crc="4055699292" ref="index"/>
+    <file name="arra_thumbnail-01.png" crc="3903158034" ref="index"/>
+    <file name="egww_before.jpg" crc="4021288569" ref="index"/>
+    <file name="egww_demo.jpg" crc="185108108" ref="index"/>
+    <file name="egww_after.jpg" crc="189441369" ref="index"/>
+    <file name="san diego ct construction.jpg" crc="3932574953" ref="index"/>
+    <file name="sd_final.jpg" crc="4246739888" ref="index"/>
+    <file name="uscg 1.jpg" crc="173906152" ref="index"/>
+    <file name="cg_1a.jpg" crc="159680488" ref="index"/>
+    <file name="sustainable_banner.jpg" crc="214487899" ref="index"/>
+    <file name="printwise_thumbnail-01.jpg" crc="276141242" ref="index"/>
+    <file name="inforgraphics_printing_savings.jpg" crc="4043328899" ref="index"/>
+    <file name="data_center_thumbnail-01.png" crc="259651239" ref="index"/>
+    <file name="inforgraphics_data centers.jpg" crc="3953924137" ref="index"/>
+    <file name="gpg_thumbnail-01.jpg" crc="4098280589" ref="index"/>
+    <file name="gpg_thermal_glass.jpg" crc="104502653" ref="index"/>
+    <file name="gpg_maglev.jpg" crc="436496067" ref="index"/>
+    <file name="gpg_pv_cells.jpg" crc="450391921" ref="index"/>
+    <file name="espc_thumbnail-01-01.jpg" crc="122759621" ref="index"/>
+    <file name="innovation_banner.jpg" crc="4045972443" ref="index"/>
+    <file name="disposal_thumbnail-01.jpg" crc="4031678065" ref="index"/>
+    <file name="inforgraphics_property_disposal.jpg" crc="3938988485" ref="index"/>
+    <file name="total_thumbnail-01.jpg" crc="4228505023" ref="index"/>
+    <file name="pbs_data_section-01.jpg" crc="4141719161" ref="index"/>
+    <file name="budgeting_thumbnail-01.png" crc="392710607" ref="index"/>
+    <file name="partnerships_thumbnail-01.jpg" crc="506180680" ref="index"/>
+    <file name="pif_thumbnail-01-01.jpg" crc="177137002" ref="index"/>
+    <file name="pif_logo.jpg" crc="275441843" ref="index"/>
+    <file name="18f_thumbnail-01-01.jpg" crc="4247825307" ref="index"/>
+    <file name="18_f_logo.jpg" crc="99089941" ref="index"/>
+    <file name="stronger_banner.jpg" crc="4186754931" ref="index"/>
+    <file name="streamline_thumbnail-01.jpg" crc="172169080" ref="index"/>
+    <file name="leading_tech_thumbnail-01.jpg" crc="343697773" ref="index"/>
+    <file name="leasing_thumbnail-01.jpg" crc="80643922" ref="index"/>
+    <file name="leasing_map.jpg" crc="382926721" ref="index"/>
+    <file name="expanding_banner.jpg" crc="3808917525" ref="index"/>
+    <file name="small_business_thumbnail-01.jpg" crc="4293118186" ref="index"/>
+    <file name="inforgraphics_small business.jpg" crc="246662286" ref="index"/>
+    <file name="small_business_thumbnail-02.jpg" crc="479940182" ref="index"/>
+    <file name="better_value_banner.jpg" crc="18099470" ref="index"/>
+    <file name="oasis_thumbnail-01.jpg" crc="4114706366" ref="index"/>
+    <file name="citypair_thumbnail-01.jpg" crc="17235948" ref="index"/>
+    <file name="reverse_auction_thumbnail-01.jpg" crc="89989922" ref="index"/>
+    <file name="fleet_thumbnail-01.jpg" crc="4211325225" ref="index"/>
+    <file name="inforgraphics_fleet consolidation.jpg" crc="4084757848" ref="index"/>
+    <file name="market_share_thumbnail-01.jpg" crc="399065396" ref="index"/>
+    <file name="inforgraphics_market share.jpg" crc="427634173" ref="index"/>
+    <file name="capital_construction_thumbnail-01.jpg" crc="299280449" ref="index"/>
+    <file name="inforgraphics_cpp.jpg" crc="174011954" ref="index"/>
+    <file name="left_arrows.png" crc="3889182776" ref="index"/>
+    <file name="right_arrows.png" crc="3794062026" ref="index"/>
+    <file name="section_break_image3.jpg" crc="434857884" ref="index"/>
+    <file name="about_gsa_banner.jpg" crc="424713246" ref="index"/>
+    <file name="section_break_image4.jpg" crc="4246303283" ref="index"/>
+    <file name="data_banner.jpg" crc="4131225896" ref="index"/>
+    <file name="expenses_revenue_net_cost_revenue_epenses_netcost.jpg" crc="215043363" ref="index"/>
+    <file name="expenses_revenue_net_cost_total_assets_liabilities_net_position.jpg" crc="4188407663" ref="index"/>
+    <file name="expenses_revenue_net_cost_energy_intensity.jpg" crc="414721759" ref="index"/>
+    <file name="expenses_revenue_net_cost_staff.jpg" crc="3788271765" ref="index"/>
+    <file name="fas_data_section_operating cost percent revenue.jpg" crc="4160969056" ref="index"/>
+    <file name="fas_data_section_generate savings fas.jpg" crc="287689214" ref="index"/>
+    <file name="fas_data_section_top 5 customers.jpg" crc="4120817689" ref="index"/>
+    <file name="fas_data_section_market share.jpg" crc="4268489245" ref="index"/>
+    <file name="fas_data_section_increase fssi.jpg" crc="12604862" ref="index"/>
+    <file name="fas_data_section_afv - governmentwide.jpg" crc="4229741154" ref="index"/>
+    <file name="pbs_data_section_generate savings pbs.jpg" crc="3894480149" ref="index"/>
+    <file name="pbs_data_section_top 5 customers.jpg" crc="339358795" ref="index"/>
+    <file name="pbs_data_section_leased square.jpg" crc="4246362248" ref="index"/>
+    <file name="pbs_data_section_pbs top customers.jpg" crc="112019717" ref="index"/>
+    <file name="pbs_data_section_top 15 market.jpg" crc="3926927451" ref="index"/>
+    <file name="pbs_data_section_vacancy rates.jpg" crc="499740405" ref="index"/>
+    <file name="pbs_data_section_r-a liability with frv comparioson.jpg" crc="3844738509" ref="index"/>
+    <file name="whitehouse_icon.jpg" crc="3941743924" ref="index"/>
+    <file name="recovery_icon.jpg" crc="196445752" ref="index"/>
+    <file name="data_gov_icon.jpg" crc="4083473857" ref="index"/>
+    <file name="usa_gov_icon.jpg" crc="285684117" ref="index"/>
+    <file name="business_usa_icon.jpg" crc="4011488640" ref="index"/>
+  </folder>
+  <file name="index.html" crc="446440213" mt="1411067169614" redirect="true"/>
+</manifest>
